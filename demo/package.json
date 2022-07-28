@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@duxli/react-lib-starter": "file:..",
+    "@duxli/react-data-table": "file:..",
     "react": "*",
     "react-dom": "*",
     "web-vitals": "^2.1.4"

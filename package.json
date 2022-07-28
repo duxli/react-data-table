@@ -1,7 +1,7 @@
 {
-  "name": "@duxli/react-lib-starter",
+  "name": "@duxli/react-data-table",
   "version": "0.1.0",
-  "description": "Created with @duxli/react-lib-starter",
+  "description": "Unopinionated tools to help create data tables in React",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "private": true,
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/utori-dev/template-simple-npm-library.git"
+    "url": "git+https://github.com/duxli/react-data-table.git"
   },
   "keywords": [
     "template",
@@ -26,9 +26,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duxli/react-lib-starter/issues"
+    "url": "https://github.com/duxli/react-data-table/issues"
   },
-  "homepage": "https://github.com/duxli/react-lib-starter#readme",
+  "homepage": "https://github.com/duxli/react-data-table#readme",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

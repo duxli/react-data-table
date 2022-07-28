@@ -1,5 +1,5 @@
 import React from 'react';
-import { HelloWorld } from '@duxli/react-lib-starter';
+import { HelloWorld } from '@duxli/react-data-table';
 
 function App() {
   return (
